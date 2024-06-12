@@ -1,1 +1,3 @@
 # netflix
+this is a netflix  templete without js
+u can see it easily .........
